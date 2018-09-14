@@ -1,0 +1,3 @@
+USE master;
+ALTER DATABASE [databasename] SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+DROP DATABASE [databasename] ;
