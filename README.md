@@ -1,1 +1,2 @@
-"# sql-tricks" 
+# sql-tricks
+Useful SQL Tricks
